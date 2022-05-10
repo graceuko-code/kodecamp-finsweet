@@ -108,8 +108,8 @@
 
 .form-section{
     justify-content: space-between;
-    height: 500px;
-    padding-top: 50px;
+    height: 100vh;
+    padding-top: 90px;
 }
 
 .form-section h1{
@@ -169,6 +169,7 @@ width: 45%;
 
 .process-section h1{
     font-size: 35px;
+    padding-top: 20px;
     padding-bottom: 20px;
 }
 
